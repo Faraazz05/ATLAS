@@ -18,16 +18,16 @@
 
 # Frontend — Frontend Engineer
 
-/frontend/           @FRONTEND_GITHUB_USERNAME
+/frontend/           @Faraazz05 @yash1755-hue
 
 # API contracts & schemas — Shared responsibility
 
-/api/                @Faraazz05 @FRONTEND_GITHUB_USERNAME
+/api/                @Faraazz05 @yash1755-hue
 
 # Documentation & governance — Shared
 
-/docs/               @Faraazz05 @FRONTEND_GITHUB_USERNAME
-README.md            @Faraazz05 @FRONTEND_GITHUB_USERNAME
-ARCHITECTURE.md      @Faraazz05 @FRONTEND_GITHUB_USERNAME
-SECURITY.md          @Faraazz05 @FRONTEND_GITHUB_USERNAME
-GOVERNANCE.md        @Faraazz05 @FRONTEND_GITHUB_USERNAME
+/docs/               @Faraazz05 @yash1755-hue
+README.md            @Faraazz05 @yash1755-hue
+ARCHITECTURE.md      @Faraazz05 @yash1755-hue
+SECURITY.md          @Faraazz05 @yash1755-hue
+GOVERNANCE.md        @Faraazz05 @yash1755-hue
