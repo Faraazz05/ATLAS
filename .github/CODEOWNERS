@@ -1,0 +1,33 @@
+# =========================
+
+# Core ownership rules
+
+# =========================
+
+# Backend, agents, orchestration, infra — Faraz
+
+/backend/            @Faraazz05
+/agents/             @Faraazz05
+/security/           @Faraazz05
+/blockchain/         @Faraazz05
+/azure/              @Faraazz05
+/k8s/                @Faraazz05
+/docker/             @Faraazz05
+/tests/              @Faraazz05
+/.github/
+
+# Frontend — Frontend Engineer
+
+/frontend/           @FRONTEND_GITHUB_USERNAME
+
+# API contracts & schemas — Shared responsibility
+
+/api/                @Faraazz05 @FRONTEND_GITHUB_USERNAME
+
+# Documentation & governance — Shared
+
+/docs/               @Faraazz05 @FRONTEND_GITHUB_USERNAME
+README.md            @Faraazz05 @FRONTEND_GITHUB_USERNAME
+ARCHITECTURE.md      @Faraazz05 @FRONTEND_GITHUB_USERNAME
+SECURITY.md          @Faraazz05 @FRONTEND_GITHUB_USERNAME
+GOVERNANCE.md        @Faraazz05 @FRONTEND_GITHUB_USERNAME
